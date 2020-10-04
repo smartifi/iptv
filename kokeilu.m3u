@@ -1,70 +1,71 @@
 #EXTM3U
-#EXTINF:1,YLE1
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8011/bysid/17/239.16.177.1:1234
-#EXTINF:1,YLE2
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8011/bysid/33/239.16.177.2:1234
-#EXTINF:1,MTV3
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8011/bysid/49/239.16.177.3:1234
-
-#EXTINF:1,Nelonen
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8011/bysid/65/239.16.177.4:1234
-
-#EXTINF:1,Teema
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8011/bysid/81/239.16.177.5:1234
-#EXTINF:1,Sub
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8031/bysid/273/udp/239.16.177.6:1234
-#EXTINF:1,TV5
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8021/bysid/417/udp/239.16.177.7:1234
-#EXTINF:1,Liv
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8031/bysid/818/udp/239.16.177.8:1234
-#EXTINF:1,Jim
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8031/bysid/129/udp/239.16.177.9:1234
-#EXTINF:1,Kutonen
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8021/bysid/401/udp/239.16.177.10:1234
-#EXTINF:1,TLC
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8021/bysid/145/udp/239.16.177.11:1234
-#EXTINF:1,FOX
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8021/bysid/529/udp/239.16.177.12:1234
-#EXTINF:1,AVA
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8011/bysid/155/udp/239.16.177.13:1234
-#EXTINF:1,Hero
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8031/bysid/385/udp/239.16.177.14:1234
-#EXTINF:1,AlfaTV
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8031/bysid/801/udp/239.16.177.15:1234
-#EXTINF:1,Frii
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8021/bysid/451/udp/239.16.177.16:1234
-#EXTINF:1,livechat.fi
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8031/bysid/161/udp/239.16.177.18:1234
-#EXTINF:1,Natgeo
-#EXTVLCOPT:http-user-agent=stream
-http://193.64.188.131:8021/bysid/449/udp/239.16.177.20:1234
-
-
-
-
-
-
-
-
-#EXTINF:1,MT
-http://193.64.188.131:8031/bysid/2019/udp/239.16.177.26:1234
-#EXTINF:1,1HDMusicTelevision
-http://193.64.188.131:8031/bysid/475/udp/239.16.177.28:1234
-
+#EXTINF:0 tvg-id="" tvg-name="
+https://fgig.ir/movie/2019/2.0_1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="A-score-to-settle"
+https://fgig.ir/movie/2019/A_Score_to_Settle_2019_720p_Sub.mkv
+#EXTINF:0 tvg-id="" tvg-name="aladdin"
+https://fgig.ir/movie/2019/Aladdin-2019_1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="Alit.Battle.Angel"
+https://fgig.ir/movie/2019/Alit.Battle.Angel.1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="American actory"
+https://fgig.ir/movie/2019/American.Factory.1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="Assimilate"
+https://fgig.ir/movie/2019/Assimilate.2019.1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="Astro kid"
+https://fgig.ir/movie/2019/Astro-Kid-2019_1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="Avwngers endgame"
+https://fgig.ir/movie/2019/Avengers.Endgame.2019.1080p.mp4
+#EXTINF:0 tvg-id="" tvg-name="Brahat"
+https://fgig.ir/movie/2019/Bharat.2019.1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="Brightburn"
+https://fgig.ir/movie/2019/Brightburn_2019_1080p.mkv
+#EXTINF:0 tvg-id="" tvg-name="Burn"
+https://fgig.ir/movie/2019/Burn.1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="Capten Marven"
+https://fgig.ir/movie/2019/Captain_Marvel_2019_720.mkv
+#EXTINF:0 tvg-id="" tvg-name="Extremely-Wicked-Shockingly-Evil-and-Vile"
+https://fgig.ir/movie/2019/Extremely-Wicked-Shockingly-Evil-and-Vile_1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="Fredi"
+https://fgig.ir/movie/2019/F.R.E.D.I._1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="Godzilla"
+https://fgig.ir/movie/2019/Godzilla.King.of.the.Monsters_1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="Hellboy"
+https://fgig.ir/movie/2019/Hellboy.2019.1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="Holmes watson"
+https://fgig.ir/movie/2019/Holmes-Watson_1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="Remi Nobodys boy"
+https://fgig.ir/movie/2019/Remi-Nobodys-Boy-2018_1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="Shaft"
+https://fgig.ir/movie/2019/Shaft_2019_720p.mkv
+#EXTINF:0 tvg-id="" tvg-name="The night of shadow"
+https://fgig.ir/movie/2019/The-Knight-of-Shadows_1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="The seventh seal"
+https://fgig.ir/movie/2019/The-Seventh-Seal-1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="The curse of la liorona"
+https://fgig.ir/movie/2019/The.Curse.of.La.Llorona.1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="wonder park"
+https://fgig.ir/movie/2019/Wonder-Park_1080.mp4
+#EXTINF:0 tvg-id="" tvg-name="Arab 1"
+http://138.201.193.243/tai/movie/AR/%d8%ac%d8%af%d9%8a%d8%af/%d8%a7%d9%84%d8%a7%d8%b1%d9%87%d8%a7%d8%a8.mp4
+#EXTINF:0 tvg-id="" tvg-name="Arab2"
+http://138.201.193.243/tai/movie/AR/%d8%ac%d8%af%d9%8a%d8%af/sa3.wnos.2012.1080.HD.Abdo_hack.mp4
+#EXTINF:0 tvg-id="" tvg-name="welad al balad"
+http://138.201.193.243/tai/movie/AR/%d8%ac%d8%af%d9%8a%d8%af/Welad%20Al-balad.2010.WEB-DL.1080p.KhAiRi.mp4
+#EXTINF:0 tvg-id="" tvg-name="Sokar bara"
+http://138.201.193.243/tai/movie/AR/%d8%ac%d8%af%d9%8a%d8%af/Sokar.Bara.1080p-PHOBIA.mp4
+#EXTINF:0 tvg-id="" tvg-name="Samaka w sanara"
+http://138.201.193.243/tai/movie/AR/%d8%ac%d8%af%d9%8a%d8%af/Samaka%20we%20senara.1080.HD.Abdo_hack.mp4
+#EXTINF:0 tvg-id="" tvg-name="Arab3"
+http://138.201.193.243/tai/movie/AR/%d8%ac%d8%af%d9%8a%d8%af/%d8%a7%d9%84%d8%a7%d8%b1%d9%87%d8%a7%d8%a8.mp4
+#EXTINF:0 tvg-id="" tvg-name="Arab 4"
+http://138.201.193.243/tai/movie/AR/%d8%ac%d8%af%d9%8a%d8%af/%d8%a8%d9%86%d8%aa%d9%8a%d9%86%20%d9%85%d9%86%20%d9%85%d8%b5%d8%b1.mp4
+#EXTINF:0 tvg-id="" tvg-name="Arab5"
+http://138.201.193.243/tai/movie/AR/%d8%ac%d8%af%d9%8a%d8%af/%d9%84%d9%8a%d9%84%d8%a9%20%d8%b3%d9%82%d9%88%d8%b7%20%d8%a8%d8%ba%d8%af%d8%a7%d8%af.mp4
+#EXTINF:0 tvg-id="" tvg-name="The secret man club"
+http://138.201.193.243/tai/movie/AR/The.Secret.Men.Club.mkv
+#EXTINF:0 tvg-id="" tvg-name="el kahf"
+http://138.201.193.243/tai/movie/AR/New%20folder/3/El%20Kahf.mkv
+#EXTINF:0 tvg-id="" tvg-name="Ali spicy"
+http://138.201.193.243/tai/movie/AR/New%20folder/3/Ali%20Spicy.mkv
+#EXTINF:0 tvg-id="" tvg-name="Mohammed the messenger of god"
+http://138.201.193.243/tai/movie/EN/Muhammad%20The%20Messenger%20of%20God%202015.mp4
