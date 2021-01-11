@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="Mbc1"  group-title="AFGAN"
 #EXTINF:24,TUTI TV
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Afghanistan/08b58205613f9d3.m3u8
@@ -122,6 +123,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Afghanistan/ecca2e638
 #EXTINF:0,SAMA TV
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Afghanistan/53a37c5599ddbbd.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="Mbc1"  group-title="ALbania"
 #EXTINF:26,FILM AKSION
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Albania/535c95efcadd0de.m3u8
@@ -227,6 +229,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Albania/51b3dabeef58d
 #EXTINF:0,TVSH
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Albania/2405e4364f64ae9.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="Mbc1"  group-title="ARABIA"
 #EXTINF:24,MBC 1 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/94fbb6407ca6a41.m3u8
@@ -632,6 +635,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/bd83ea668cdfc
 #EXTINF:0,Algeria 3 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/8c646e10e0f1755.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="Mbc1"  group-title="AUSTRALIA"
 #EXTINF:24,7 FLIX
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Australia/c677248ac6dcbb5.m3u8
@@ -707,6 +711,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Australia/a798ff3ea29
 #EXTINF:0,SUNRISE
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Australia/c132247b6b16abd.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="Mbc1"  group-title="BANGLADESH"
 #EXTINF:24,ATN BANGLA 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/94e723b75fb05f2.m3u8
@@ -944,6 +949,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/36c07b92d5
 #EXTINF:0,JAGORNI TV 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Bangladesh/7679cb210874930.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="Mbc1"  group-title="BELGIUM"
 #EXTINF:23,CANVAS
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/09916e3a88db175.m3u8
@@ -992,6 +998,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/40fca6d719628
 #EXTINF:0,VTM TV
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/c5cafdbfc4d28d3.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="Mbc1"  group-title="CANADA"
 #EXTINF:41,A & E CAN
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/6dbd87da999998e.m3u8
@@ -1136,6 +1143,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/92bacc5261d1e1
 #EXTINF:0,KNN CANADA 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Canada/4615a620e23b828.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="Mbc1"  group-title="FRANCE"
 #EXTINF:0,France 2
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/28d64aa3c40ce6b.m3u8
@@ -1271,6 +1279,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/15d03a7eb72638
 #EXTINF:0,Crime District 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/France/4d0ee106c370505.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="Mbc1"  group-title="GERMANY"
 #EXTINF:23,RTL
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/bb49390f5e924a1.m3u8
@@ -1415,6 +1424,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/a149b020b55fe
 #EXTINF:0,ZEE ONE 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Germany/fb874da20d6287a.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="Mbc1"  group-title="GREECE"
 #EXTINF:24,EPT HD
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Greece/5458678eee4bc91.m3u8
@@ -1508,6 +1518,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Greece/e46cf8b44e4814
 #EXTINF:0,OPEN BEYOND 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Greece/1b7263728907207.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="Mbc1"  group-title="INDIA"
 #EXTINF:24,Aaj Tak - 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/7f786d0bb73f03a.m3u8
@@ -2147,6 +2158,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/610019c456f718d
 #EXTINF:0,REPUBLIC BHARAT 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e55d8ab3dd402ba.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="Mbc1"  group-title="INDONESIA"
 #EXTINF:40,MNC NEWS
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/243a1aea2191dec.m3u8
@@ -2207,6 +2219,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/b630a001384
 #EXTINF:0,ZEE BIOSKOP 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Indonesia/eea032203b3ce31.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="Mbc1"  group-title="ITALY"
 #EXTINF:40,RAI 1 HD
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Italy/bf346285b38f4b4.m3u8
@@ -2300,6 +2313,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Italy/aae657ce49e3d88
 #EXTINF:0,MILAN TV
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Italy/258fb79ba122962.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="Mbc1"  group-title="KIDS"
 #EXTINF:40,DISNEY UK
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/a997a7280b772a0.m3u8
@@ -2483,6 +2497,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/bfc13e6e8a5fef5.
 #EXTINF:0,POP KIDS PAK 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/7e5676155536bd5.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="Mbc1"  group-title="KURDISH"
 #EXTINF:25,NRT
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kurdish/c85b254a5023b74.m3u8
@@ -2573,6 +2588,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kurdish/dee56c254c8d9
 #EXTINF:0,Lalish Tv
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kurdish/b7ce5ef6d8a9064.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="Mbc1"  group-title="NEPAL"
 #EXTINF:0,Avenues TV
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Nepal/568a4a2ba190a16.m3u8
@@ -2624,6 +2640,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Nepal/a035b245fc9937a
 #EXTINF:0,SKY HD
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Nepal/736bd52e4e9acfc.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="Mbc1"  group-title="NETHERLAND"
 #EXTINF:24,NPO 1
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/378a642ff00fed9.m3u8
@@ -2672,6 +2689,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/ccb94808e0
 #EXTINF:0,Veronica TV
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/8960167d1cbf8cc.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name=""  group-title="PAKISTAN"
 #EXTINF:33,GEO NEWS PAK TIME
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Pakistan/82f31ac26a3f804.m3u8
@@ -3071,6 +3089,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Pakistan/777bab7e3d3b
 #EXTINF:0,NJ DIGITAL 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Pakistan/a4c51c8f15c1696.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name=""  group-title="PHILIPPINES"
 #EXTINF:24,GMA NEWS INT
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
@@ -3152,6 +3171,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/383fb71f4
 #EXTINF:0,HOPE TV 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/2224e34a782179c.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name=""  group-title="POLAND"
 #EXTINF:23,TVP 1 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/0e3ce78c45ac09c.m3u8
@@ -3224,6 +3244,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/282db3295e4ec3
 #EXTINF:0,4 FUN
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/e04dae8e62b70a0.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name=""  group-title="Portugal"
 #EXTINF:24,RTP 1
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/d5fc45f213dbd65.m3u8
@@ -3377,8 +3398,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/5cdce4d5c5fc
 #EXTINF:0,CM TV 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/bb6345f0bfa1731.m3u8
-#EXTINF:0, Punjab
-https://stream.nmbs.top/lists/Punjabi.m3u
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name=""  group-title="RELIGION"
 #EXTINF:0,MADANI TV
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Religious/20fd461df02d802.m3u8
@@ -3553,6 +3573,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Religious/94a637fadb5
 #EXTINF:0,JOYSTAR TV 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Religious/e22dc65d77c8885.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name=""  group-title="ROMANIA"
 #EXTINF:0,ACASA
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Romania/f5a89594d6bb58d.m3u8
@@ -3655,6 +3676,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Romania/258f1af4d5959
 #EXTINF:0,U TV 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Romania/9afb44fbf1bbdd2.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name=""  group-title="SPAIN"
 #EXTINF:0,AMC ES
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/6cc49bcb9969bac.m3u8
@@ -3733,6 +3755,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/9a7ec5dc9bd5a35
 #EXTINF:0,ZEE MUNDO 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/e53a7f5368d5be5.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name=""  group-title="SPORT"
 #EXTINF:20,PTV SPORTS  LOW
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/0e5afc8461635a6.m3u8
@@ -4360,6 +4383,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/520c53bae64456
 #EXTINF:0,TNT SPORTS 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b4a828ec90d9805.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name=""  group-title="SRILANKA"
 #EXTINF:0,Sirasa TV
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Srilanka/8cf11bfaede4c01.m3u8
@@ -4399,6 +4423,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Srilanka/0a1c5ee66c0f
 #EXTINF:0,HIRU TV
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Srilanka/a6a03aa37f037c7.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name=""  group-title="THAILAND"
 #EXTINF:0,AMARIN TV 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Thailand/967deddfe5096f2.m3u8
@@ -4465,6 +4490,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Thailand/c07bfc72876f
 #EXTINF:0,YOU CHANNEL 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Thailand/2eab8132fff52a5.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name=""  group-title="TURKISH"
 #EXTINF:23,Tivibu Spor 1
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/e5989f17a0202e0.m3u8
@@ -4630,6 +4656,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/a3040a2959c71
 #EXTINF:0,FOX HD 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/7cc6ffb013cacc9.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name=""  group-title="UK"
 #EXTINF:27,ITV 1
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/71b5c8483161297.m3u8
@@ -4900,6 +4927,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/cdfb657ff880124.m3
 #EXTINF:0,BBC ALBA 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/7f73ce1d07e8b00.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name=""  group-title="USA"
 #EXTINF:30,USA NETWORK 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/6cdb3402d11f58d.m3u8
@@ -5116,6 +5144,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/b02b9f2c6e42794.m
 #EXTINF:0,ABC NEWS 
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/297dc21e6da8c54.m3u8
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name=""  group-title="DOCUMENTARY"
 #EXTINF:23,Animal Planet UK
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/413c7f7928d689d.m3u8
